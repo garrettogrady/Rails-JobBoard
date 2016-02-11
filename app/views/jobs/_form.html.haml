@@ -1,0 +1,8 @@
+= simple_form_for(@job, hymml: {class: 'form-horixontal'}) do |f|
+  = f.input :title, label: "Job Title"
+  = f.input :description, label: "Job Description"
+  = f.input :company, label: "your Company"
+  = f.input :url, label: "Link to job"
+  %br/
+  = f.button :submit
+  
