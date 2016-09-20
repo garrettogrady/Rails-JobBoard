@@ -7,5 +7,4 @@ An app built in Ruby on Rails as a tutorial.
 
 ![screenshot](https://raw.github.com/garrettogrady/Rails-JobBoard/master/screenshot-1.png)
 
-![screenshot](/Rails-JobBoard/screenshot-2.png)
-
+![screenshot](https://raw.github.com/garrettogrady/Rails-JobBoard/master/screenshot-2.png)
